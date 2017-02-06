@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference:ToothGrowth exploratory data analysis"
+title: "Statistical Inference:ToothGrowth Inferential Data Analysis"
 author: "Madhavi Pullela"
 date: "February 5, 2017"
 output: pdf_document
